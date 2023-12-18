@@ -1,0 +1,36 @@
+Assignment 5 comments:
+
+Question 1:
+a. Choosing a route  10/10
+
+b. new info  10/10
+
+c. value of information: 5/10
+I don't follow your reasoning here. you want to consider the value of r3 if it's 
+smooth, what the best option is if it's not, and the probability of each outcome.
+
+d: chatGPT:  5/5
+
+Question 2: HMMs
+
+a: load 5/5
+
+b. generate 10/10
+
+c. forward 10/10
+
+d. viterbi  10/10
+
+Question 3: Bayesian Nets
+
+a. query  5/5 
+
+b. Car net 10/10
+
+c. new node  10/10
+
+(grad students only) AINow nice job!
+
+95/100
+ 
+
